@@ -1,0 +1,25 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.posts__img {
+    height:200px;
+    width:100%;
+}
+.posts__img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.box {
+    height: 300px;
+}
+.post__img {
+    height:500px;
+    width:500px;
+}
+.post__img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
